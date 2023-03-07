@@ -1,3 +1,3 @@
 # playwright
 
-A place to play (w)right.
+A place to [play (w)right](https://playwright.dev/python/).
